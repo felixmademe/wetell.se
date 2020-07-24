@@ -1,2 +1,4 @@
-User-agent: *
+sitemap: https://wetell.se
+User-agents: *
+Allow: /
 Disallow:
