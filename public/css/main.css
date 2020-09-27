@@ -20,14 +20,14 @@ a, a:visited, a:active
     font-weight: bold;
     color: #fff;
     text-decoration: none;
-    transition-duration: 0.5s;
+    transition-duration: 0.3s;
     text-shadow: 2px 2px #55a72f;
 }
 
 a:hover
 {
     color: white;
-    transition-duration: 0.5s;
+    transition-duration: 0.3s;
     text-shadow: 4px 3px black;
 }
 
