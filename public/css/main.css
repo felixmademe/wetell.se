@@ -20,12 +20,20 @@ a, a:visited, a:active
     font-weight: bold;
     color: #fff;
     text-decoration: none;
+    transition-duration: 0.5s;
+    text-shadow: 2px 2px #55a72f;
 }
 
 a:hover
 {
-    color: #1a1a1a;
-    text-decoration: underline;
+    color: white;
+    transition-duration: 0.5s;
+    text-shadow: 4px 3px black;
+}
+
+p
+{
+    margin: -40px 0 0 0;
 }
 
 .center
