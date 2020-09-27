@@ -45,3 +45,8 @@ h1, h2
 {
     margin: 10px;
 }
+
+.logo {
+    height: 40vh;
+    max-height: 330px;
+}
